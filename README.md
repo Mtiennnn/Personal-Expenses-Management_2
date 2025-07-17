@@ -76,7 +76,4 @@ npm run dev
 Visit `http://localhost:3000` in your browser to view the application.
 
 ## Developers
-
-- [Nguyen Anh Khoa](https://github.com/NaKMiers) - _Team Leader_ ([portfolio](https://anhkhoa.site))
 - [Nguyen Minh Tien](https://github.com/Mtiennnn)
-- [Vu Ngoc Lam](https://github.com/catchmeifyoucan99)
