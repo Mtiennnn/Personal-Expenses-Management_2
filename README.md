@@ -77,6 +77,3 @@ Visit `http://localhost:3000` in your browser to view the application.
 
 ## Developers
 - [Nguyen Minh Tien](https://github.com/Mtiennnn)
-- [Luong Gia Bao]
-- [Nhat Minh]
-- [Duc Anh]
